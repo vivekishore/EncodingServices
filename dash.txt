@@ -1,0 +1,45 @@
+<!-- Dashboard Options -->
+    <div class="dashboard-options">
+      <div class="dashboard-option">
+        <h2>
+          <span
+            class="iconify"
+            data-icon="bi:gear-wide-connected"
+            data-inline="false"
+          ></span>
+          Services
+        </h2>
+        <!-- Add any content related to services -->
+      </div>
+      <div class="dashboard-option">
+        <h2>
+          <span class="iconify" data-icon="bi:alarm" data-inline="false"></span>
+          Alarms
+        </h2>
+        <!-- Add any content related to alarms -->
+      </div>
+      <div class="dashboard-option">
+        <h2>
+          <span
+            class="iconify"
+            data-icon="bi:question-circle"
+            data-inline="false"
+          ></span>
+          Support
+        </h2>
+        <!-- Add any content related to support -->
+      </div>
+      <div class="dashboard-option">
+        <h2>
+          <span
+            class="iconify"
+            data-icon="bi:cpu-fill"
+            data-inline="false"
+          ></span>
+          System
+        </h2>
+        <!-- Add any content related to system -->
+      </div>
+    </div>
+
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
